@@ -4,14 +4,15 @@ Version used: Python 3.11
 
 ## Libraries
 
-- requests
 - tabula-py
 - pandas
+- zipfile
 
 ## Prerequisites
 
 - python
 - pip
+- jre (java runtime environment)
 
 ## Contact
 
